@@ -9,6 +9,7 @@
         "blade-ui-kit/blade-icons": "^1.7",
         "eduard9969/blade-polaris-icons": "^2.7",
         "guzzlehttp/guzzle": "^7.2",
+        "kreait/laravel-firebase": "^5.10",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8"
