@@ -129,5 +129,6 @@ return array(
     'BladeUI\\Icons\\' => array($vendorDir . '/blade-ui-kit/blade-icons/src'),
     'Beste\\Clock\\' => array($vendorDir . '/beste/clock/src/Clock'),
     'Beste\\Cache\\' => array($vendorDir . '/beste/in-memory-cache/src'),
+    'ArielMejiaDev\\LarapexCharts\\' => array($vendorDir . '/arielmejiadev/larapex-charts/src'),
     'App\\' => array($baseDir . '/app', $vendorDir . '/laravel/pint/app'),
 );

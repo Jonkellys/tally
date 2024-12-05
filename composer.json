@@ -6,6 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
+        "arielmejiadev/larapex-charts": "^8.1",
         "blade-ui-kit/blade-icons": "^1.7",
         "eduard9969/blade-polaris-icons": "^2.7",
         "guzzlehttp/guzzle": "^7.2",
